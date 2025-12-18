@@ -1,0 +1,13 @@
+date,page,keyword,clicks,impressions,ctr,avg_position
+2025-01-01,/products/shoes,running shoes,120,3500,0.034,8.2
+2025-01-01,/products/shoes,sneakers sale,95,2400,0.039,9.1
+2025-01-01,/blog/fitness,best exercises,60,1800,0.033,12.4
+2025-01-02,/products/shoes,running shoes,140,3600,0.039,7.8
+2025-01-02,/products/shoes,sneakers sale,97,2600,0.037,8.9
+2025-01-02,/blog/fitness,best exercises,58,1700,0.034,12.0
+2025-01-03,/products/shoes,running shoes,150,3800,0.039,7.2
+2025-01-03,/products/shoes,sneakers sale,110,2750,0.040,8.1
+2025-01-03,/blog/fitness,best exercises,63,1950,0.032,11.8
+2025-01-04,/products/shoes,running shoes,155,4000,0.038,7.1
+2025-01-04,/products/shoes,sneakers sale,115,2900,0.040,7.4
+2025-01-04,/blog/fitness,best exercises,70,2100,0.033,11.2
